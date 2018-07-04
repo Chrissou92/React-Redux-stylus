@@ -1,7 +1,7 @@
 {
-  "name": "react-redux-stylus-starter",
+  "name": "todo-redux",
   "version": "1.0.0",
-  "description": "BoilerPlate",
+  "description": "todo-redux",
   "main": "index.js",
   "author": "nicolchristelle@gmail.com",
   "license": "MIT",
@@ -40,5 +40,6 @@
     "react-dom": "^16.4.1",
     "react-redux": "^5.0.7",
     "redux": "^4.0.0"
-  }
+  },
+  "repository": ""
 }
